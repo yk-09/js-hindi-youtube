@@ -1,2 +1,2 @@
 # js-hindi-youtube
-code repo js for chai aur youtube channel
+code repo js for chai aur code youtube channel
